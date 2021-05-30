@@ -1,0 +1,3 @@
+/home/Julien/Epitech/TEK3/CPP/CPP_zia_2019/build/CMakeFiles/rebuild_cache.dir
+/home/Julien/Epitech/TEK3/CPP/CPP_zia_2019/build/CMakeFiles/zia.dir
+/home/Julien/Epitech/TEK3/CPP/CPP_zia_2019/build/CMakeFiles/edit_cache.dir
